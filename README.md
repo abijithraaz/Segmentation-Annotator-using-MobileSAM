@@ -12,3 +12,5 @@ Used these repositories to know more about
 ## Model
 Please download **MobileSAM** model from [here](https://github.com/ChaoningZhang/MobileSAM/tree/master/weights) and paste in **weight** folder.
 
+## Demo
+Deployed in HuggingFaceSpace [ClickHere](figs/demo.PNG)
