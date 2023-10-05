@@ -13,4 +13,5 @@ Used these repositories to know more about
 Please download **MobileSAM** model from [here](https://github.com/ChaoningZhang/MobileSAM/tree/master/weights) and paste in **weight** folder.
 
 ## Demo
-Deployed in HuggingFaceSpace [ClickHere](figs/demo.PNG)
+Deployed in HuggingFaceSpace [ClickHere](Abijith/Segmentation-Annotator-using-MobileSAM)
+ ![Image](figs/demo.PNG)
