@@ -1,13 +1,14 @@
----
-title: Segmentation Annotator Using MobileSAM
-emoji: 🐠
-colorFrom: pink
-colorTo: red
-sdk: gradio
-sdk_version: 3.46.1
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+# Segmentation-Annotator-using-MobileSAM
+App used to create segment labels bu using MobileSAM model.
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## SAM
+Use this repository to know more about [SAM](https://segment-anything.com/)
+
+## PerSAM
+Used these repositories to know more about 
+- Personalization of sam, [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
+- Mobile version of sam, [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+
+## Model
+Please download **MobileSAM** model from [here](https://github.com/ChaoningZhang/MobileSAM/tree/master/weights) and paste in **weight** folder.
+
