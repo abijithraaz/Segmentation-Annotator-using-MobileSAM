@@ -1,8 +1,8 @@
 # Segmentation-Annotator-using-MobileSAM
-App used to create segment labels bu using MobileSAM model.
+App used to create segment labels by using MobileSAM model.
 
 ## SAM
-Use this repository to know more about [SAM](https://segment-anything.com/)
+Use this link to know more about [SAM](https://segment-anything.com/)
 
 ## PerSAM
 Used these repositories to know more about 
