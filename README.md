@@ -12,6 +12,11 @@ Used these repositories to know more about
 ## Model
 Please download **MobileSAM** model from [here](https://github.com/ChaoningZhang/MobileSAM/tree/master/weights) and paste in **weight** folder.
 
+## Run in local
+Install all the dependencies ``` pip install requirement.txt ```
+Run - ``` python app.py ```
+
 ## Demo
 Deployed in HuggingFaceSpace [ClickHere](Abijith/Segmentation-Annotator-using-MobileSAM)
+
  ![Image](figs/demo.PNG)
